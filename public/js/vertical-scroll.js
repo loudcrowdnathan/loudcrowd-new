@@ -19,7 +19,7 @@ $('#fullpage').fullpage({
   navigation: true,
   slidesNavigation: true,
   controlArrows: false,
-  anchors: ['firstSection', 'secondSection', 'thirdSection', 'fourthSection', 'fifthSection'],
+//  anchors: ['firstSection', 'secondSection', 'thirdSection', 'fourthSection', 'fifthSection'],
   menu: '#menu',
 
   afterLoad: function(anchorLink, index) {
