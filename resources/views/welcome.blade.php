@@ -39,13 +39,27 @@
 	          <h3>This is the second section</h3>
           </div>
         </section>
-        <section class="vertical-scrolling section-three">
-          <h2>fullPage.js</h2>
-          <h3>This is the third section</h3>
+        <section class="vertical-scrolling section-two video-container">
+          <div class="video-section">
+            <video autoplay loop muted class="banner_video" poster="/img/logo-white-emblem.png">
+              <source src="/videos/rain.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="floating-content">
+    	      <h2>fullPage.js</h2>
+	          <h3>This is the second section</h3>
+          </div>
         </section>
-        <section class="vertical-scrolling section-four">
-          <h2>fullPage.js</h2>
-          <h3>This is the fourth section</h3>
+        <section class="vertical-scrolling section-two video-container">
+          <div class="video-section">
+            <video autoplay loop muted class="banner_video" poster="/img/logo-white-emblem.png">
+              <source src="/videos/rain.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="floating-content">
+    	      <h2>fullPage.js</h2>
+	          <h3>This is the second section</h3>
+          </div>
         </section>
         <section class="vertical-scrolling section-five">
           <div class="horizontal-scrolling">
@@ -59,6 +73,7 @@
           </div>
         </section>
       </div>
+    <!-- Scripts -->
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.js'></script>
     <script src='/js/vertical-scroll.js'></script>
