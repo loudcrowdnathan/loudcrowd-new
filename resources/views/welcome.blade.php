@@ -28,14 +28,16 @@
             <a href="#fifthSection/1" class="icon-up-open-big"></a>
           </div>
         </section>
-        <section class="vertical-scrolling section-two">
+        <section class="vertical-scrolling section-two video-container">
           <div class="video-section">
             <video autoplay loop muted class="banner_video" poster="/img/logo-white-emblem.png">
               <source src="/videos/rain.mp4" type="video/mp4">
             </video>
           </div>
-          <h2>fullPage.js</h2>
-          <h3>This is the second section</h3>
+          <div class="floating-content">
+    	      <h2>fullPage.js</h2>
+	          <h3>This is the second section</h3>
+          </div>
         </section>
         <section class="vertical-scrolling section-three">
           <h2>fullPage.js</h2>
